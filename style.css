@@ -70,7 +70,7 @@ div {
 
 #author {
   position: relative;
-  font-family: "Jacquard 24", script;
+  font-family: "Jacquard 24", cursive;
   font-size: 36px;
   font-weight: 400;
   line-height: 36px;
@@ -85,7 +85,6 @@ div {
   position: relative;
   color: #000000;
   font-family: "VT323", monospace;
-
   font-size: 36px;
   font-weight: 400;
   line-height: 43.2px;
@@ -95,8 +94,7 @@ div {
 #author-name {
   position: relative;
   color: #000000;
-  font-family: "Jacquard 24", script;
-  ;
+  font-family: "Jacquard 24", cursive;
   font-size: 48px;
   font-weight: 400;
   line-height: 57.6px;
@@ -206,8 +204,7 @@ div {
   min-width: 0;
   height: 48px;
   color: #ffffff;
-  font-family: "Jacquard 24", script;
-  ;
+  font-family: "Jacquard 24", cursive;
   font-size: 24px;
   font-weight: 400;
   line-height: 24px;
@@ -270,7 +267,7 @@ div {
   position: relative;
   width: 50vh;
   color: #000000;
-  font-family: "Jacquard 24", script;
+  font-family: "Jacquard 24", cursive;
   font-size: 24px;
   font-weight: 400;
   line-height: 24px;
@@ -303,8 +300,7 @@ div {
   position: relative;
   width: 50vh;
   color: #000000;
-  font-family: "Jacquard 24", script;
-  ;
+  font-family: "Jacquard 24", cursive;
   font-size: 48px;
   font-weight: 400;
   line-height: 48px;
@@ -381,8 +377,7 @@ div {
   width: 1208px;
   height: 80px;
   color: #000000;
-  font-family: "Jacquard 24", script;
-  ;
+  font-family: "Jacquard 24", cursive;
   font-size: 40px;
   font-weight: 400;
   line-height: 40px;
@@ -1091,7 +1086,7 @@ div {
   top: 0%;
   left: 0;
   color: #ffffff;
-  font-family: Pixelify Sans, var(--default-font-family);
+  font-family: "Pixelify Sans", monospace;
   font-size: 28px;
   font-weight: 400;
   line-height: 33.6px;
@@ -1284,7 +1279,7 @@ div {
 
 .button span {
   color: white;
-  font-family: Pixelify Sans, var(--default-font-family);
+  font-family: "Pixelify Sans", monospace;
   font-size: 28px;
   font-weight: 400;
   line-height: 34px;
@@ -1341,7 +1336,7 @@ div {
   width: 66px;
   height: 34px;
   color: rgba(255, 255, 255, 0.25);
-  font-family: Pixelify Sans, var(--default-font-family);
+  font-family: "Pixelify Sans", monospace;
   font-size: 28px;
   font-weight: 400;
   line-height: 33.6px;
@@ -1375,7 +1370,7 @@ div {
   width: 57px;
   height: 115px;
   color: #ffffff;
-  font-family: Pixelify Sans, var(--default-font-family);
+  font-family: "Pixelify Sans", monospace;
   font-size: 96px;
   font-weight: 400;
   line-height: 115px;
@@ -1406,7 +1401,7 @@ div {
   width: 66px;
   height: 34px;
   color: rgba(255, 255, 255, 0.25);
-  font-family: Pixelify Sans, var(--default-font-family);
+  font-family: "Pixelify Sans", monospace;
   font-size: 28px;
   font-weight: 400;
   line-height: 33.6px;
@@ -1462,7 +1457,7 @@ div {
   width: 88px;
   height: 34px;
   color: #ffffff;
-  font-family: Pixelify Sans, var(--default-font-family);
+  font-family: "Pixelify Sans", monospace;
   font-size: 28px;
   font-weight: 400;
   line-height: 33.6px;
@@ -1519,7 +1514,7 @@ div {
   width: 55px;
   height: 34px;
   color: #ffffff;
-  font-family: Pixelify Sans, var(--default-font-family);
+  font-family: "Pixelify Sans", monospace;
   font-size: 28px;
   font-weight: 400;
   line-height: 33.6px;
@@ -1550,7 +1545,7 @@ div {
   min-width: 0;
   height: 34px;
   color: #ffffff;
-  font-family: Pixelify Sans, var(--default-font-family);
+  font-family: "Pixelify Sans", monospace;
   font-size: 28px;
   font-weight: 400;
   line-height: 33.6px;
@@ -1576,7 +1571,7 @@ div {
   min-width: 0;
   height: 34px;
   color: #ffffff;
-  font-family: Pixelify Sans, var(--default-font-family);
+  font-family: "Pixelify Sans", monospace;
   font-size: 28px;
   font-weight: 400;
   line-height: 33.6px;
@@ -1623,8 +1618,7 @@ div {
   min-width: 0;
   height: 24px;
   color: #ffffff;
-  font-family: "Jacquard 24", script;
-  ;
+  font-family: "Jacquard 24", cursive;
   font-size: 24px;
   font-weight: 400;
   line-height: 24px;
@@ -1824,8 +1818,7 @@ div {
   position: relative;
   width: auto;
   color: #ffffff;
-  font-family: "Jacquard 24", script;
-  ;
+  font-family: "Jacquard 24", cursive;
   font-size: 64px;
   font-weight: 400;
   line-height: 64px;
@@ -1940,8 +1933,7 @@ div {
   position: relative;
   width: 75vh;
   color: #ffffff;
-  font-family: "Jacquard 24", script;
-  ;
+  font-family: "Jacquard 24", cursive;
   font-size: 48px;
   font-weight: 400;
   line-height: 48px;
@@ -2009,8 +2001,7 @@ div {
   position: relative;
   height: 48px;
   color: #ffffff;
-  font-family: "Jacquard 24", script;
-  ;
+  font-family: "Jacquard 24", cursive;
   font-size: 36px;
   font-weight: 400;
   line-height: 48px;
@@ -2022,10 +2013,8 @@ div {
 #tell-importance {
   flex-basis: auto;
   position: relative;
-
   color: #ffffff;
-  font-family: "Jacquard 24", script;
-  ;
+  font-family: "Jacquard 24", cursive;
   font-size: 36px;
   font-weight: 400;
   line-height: 48px;
@@ -2039,8 +2028,7 @@ div {
   position: relative;
   height: 48px;
   color: #ffffff;
-  font-family: "Jacquard 24", script;
-  ;
+  font-family: "Jacquard 24", cursive;
   font-size: 36px;
   font-weight: 400;
   line-height: 48px;
@@ -2054,8 +2042,7 @@ div {
   position: relative;
   width: auto;
   color: #ffffff;
-  font-family: "Jacquard 24", script;
-  ;
+  font-family: "Jacquard 24", cursive;
   font-size: 36px;
   font-weight: 400;
   line-height: 48px;
@@ -2069,7 +2056,7 @@ div {
   align-items: center;
   justify-content: center;
   color: #ffffff;
-  font-family: "Jacquard 24", script;
+  font-family: "Jacquard 24", cursive;
   font-size: 36px;
   font-weight: 400;
   line-height: 48px;
@@ -2087,8 +2074,7 @@ div {
   position: relative;
   height: 48px;
   color: #ffffff;
-  font-family: "Jacquard 24", script;
-  ;
+  font-family: "Jacquard 24", cursive;
   font-size: 36px;
   font-weight: 400;
   line-height: 48px;
@@ -2102,8 +2088,7 @@ div {
   position: relative;
   height: 48px;
   color: #ffffff;
-  font-family: "Jacquard 24", script;
-  ;
+  font-family: "Jacquard 24", cursive;
   font-size: 36px;
   font-weight: 400;
   line-height: 48px;
@@ -2133,8 +2118,7 @@ div {
   width: 151px;
   height: 48px;
   color: #ffffff;
-  font-family: "Jacquard 24", script;
-  ;
+  font-family: "Jacquard 24", cursive;
   font-size: 36px;
   font-weight: 400;
   line-height: 48px;
@@ -2148,8 +2132,7 @@ div {
   position: relative;
   height: 48px;
   color: #ffffff;
-  font-family: "Jacquard 24", script;
-  ;
+  font-family: "Jacquard 24", cursive;
   font-size: 36px;
   font-weight: 400;
   line-height: 48px;
@@ -2163,8 +2146,7 @@ div {
   position: relative;
   height: 48px;
   color: #ffffff;
-  font-family: "Jacquard 24", script;
-  ;
+  font-family: "Jacquard 24", cursive;
   font-size: 36px;
   font-weight: 400;
   line-height: 48px;
@@ -2251,8 +2233,7 @@ div {
   min-width: 0;
   height: 48px;
   color: #000000;
-  font-family: "Jacquard 24", script;
-  ;
+  font-family: "Jacquard 24", cursive;
   font-size: 24px;
   font-weight: 400;
   line-height: 24px;
@@ -2290,8 +2271,7 @@ div {
   width: 128px;
   height: 24px;
   color: #000000;
-  font-family: "Jacquard 24", script;
-  ;
+  font-family: "Jacquard 24", cursive;
   font-size: 24px;
   font-weight: 400;
   line-height: 24px;
@@ -2394,7 +2374,7 @@ div {
   position: relative;
   height: 14px;
   color: black;
-  font-family: Pixelify Sans, var(--default-font-family);
+  font-family: "Pixelify Sans", monospace;
   font-size: 20px;
   font-weight: 500;
   line-height: 14px;
@@ -2495,8 +2475,7 @@ div {
   border-radius: 8px 8px 0 8px;
   height: 16px;
   color: #000000;
-  font-family: "Jacquard 24", script;
-  ;
+  font-family: "Jacquard 24", cursive;
   font-size: 20px;
   font-weight: 400;
   line-height: 20px;
@@ -2515,8 +2494,7 @@ div {
   max-width: 320px;
   height: auto;
   color: #000000;
-  font-family: "Jacquard 24", script;
-  ;
+  font-family: "Jacquard 24", cursive;
   font-size: 20px;
   font-weight: 400;
   line-height: 20px;
@@ -2587,8 +2565,7 @@ div {
   width: 164px;
   height: 324px;
   color: #000000;
-  font-family: "Jacquard 24", script;
-  ;
+  font-family: "Jacquard 24", cursive;
   font-size: 18px;
   font-weight: 400;
   line-height: 18px;
@@ -2645,8 +2622,7 @@ div {
   width: 164px;
   min-height: 0;
   color: #000000;
-  font-family: "Jacquard 24", script;
-  ;
+  font-family: "Jacquard 24", cursive;
   font-size: 18px;
   font-weight: 400;
   line-height: 18px;
@@ -2666,7 +2642,7 @@ div {
   width: 164px;
   min-height: 0;
   color: #000000;
-  font-family: "Jacquard 24", script;
+  font-family: "Jacquard 24", cursive;
   font-size: 18px;
   font-weight: 400;
   line-height: 18px;
@@ -2729,7 +2705,7 @@ div {
   width: auto;
   height: 384px;
   color: rgba(255, 255, 255, 0.25);
-  font-family: "VT323";
+  font-family: "VT323", monospace;
   font-size: 384px;
   font-weight: 400;
   line-height: 384px;
@@ -2751,7 +2727,7 @@ div {
   height: 384px;
   color: #FFF;
   text-align: center;
-  font-family: "Jacquard 24";
+  font-family: "Jacquard 24", cursive;
   font-size: 384px;
   font-style: normal;
   font-weight: 400;
@@ -2801,7 +2777,6 @@ div {
   padding: 36px 36px 64px 48px;
   border-right: 1px solid black;
   background: linear-gradient(90deg, #FFF 90%, #999 100%);
-  ;
   z-index: 207;
 }
 
@@ -3010,7 +2985,7 @@ div {
   width: 113.333px;
   height: 240px;
   color: #000000;
-  font-family: "Jacquard 24", script;
+  font-family: "Jacquard 24", cursive;
   font-size: 16px;
   font-weight: 400;
   line-height: 16px;
@@ -3160,8 +3135,7 @@ div {
   width: 608px;
   height: 72px;
   color: #000000;
-  font-family: "Jacquard 24", script;
-  ;
+  font-family: "Jacquard 24", cursive;
   font-size: 24px;
   font-weight: 400;
   line-height: 24px;
@@ -3207,9 +3181,7 @@ div {
   width: 653px;
   height: 72px;
   color: #000000;
-  font-family: "Jacquard 24", script;
-  ;
-
+  font-family: "Jacquard 24", cursive;
   font-size: 36px;
   font-weight: 400;
   line-height: 36px;
@@ -3257,9 +3229,7 @@ div {
   width: 634px;
   height: 72px;
   color: #000000;
-  font-family: "Jacquard 24", script;
-  ;
-
+  font-family: "Jacquard 24", cursive;
   font-size: 36px;
   font-weight: 400;
   line-height: 36px;
@@ -3276,9 +3246,7 @@ div {
   width: 667px;
   height: 72px;
   color: #000000;
-  font-family: "Jacquard 24", script;
-  ;
-
+  font-family: "Jacquard 24", cursive;
   font-size: 36px;
   font-weight: 400;
   line-height: 36px;
@@ -3295,8 +3263,7 @@ div {
   width: 664px;
   height: 72px;
   color: #000000;
-  font-family: "Jacquard 24", script;
-  ;
+  font-family: "Jacquard 24", cursive;
   font-size: 36px;
   font-weight: 400;
   line-height: 36px;
@@ -3436,8 +3403,7 @@ div {
   position: relative;
   height: 64px;
   color: #ffffff;
-  font-family: "Jacquard 24", script;
-  ;
+  font-family: "Jacquard 24", cursive;
   font-size: 64px;
   font-weight: 400;
   line-height: 64px;
@@ -3455,8 +3421,7 @@ div {
   width: 496px;
   height: 192px;
   color: #ffffff;
-  font-family: "Jacquard 24", script;
-  ;
+  font-family: "Jacquard 24", cursive;
   font-size: 24px;
   font-weight: 400;
   line-height: 24px;
@@ -3516,8 +3481,7 @@ div {
   position: relative;
   height: 64px;
   color: #000000;
-  font-family: "Jacquard 24", script;
-  ;
+  font-family: "Jacquard 24", cursive;
   font-size: 64px;
   font-weight: 400;
   line-height: 64px;
@@ -3537,8 +3501,7 @@ div {
   width: 512px;
   min-height: 0;
   color: #000000;
-  font-family: "Jacquard 24", script;
-  ;
+  font-family: "Jacquard 24", cursive;
   font-size: 24px;
   font-weight: 400;
   line-height: 24px;
@@ -3621,8 +3584,7 @@ div {
   position: relative;
   width: 50vh;
   color: #ffffff;
-  font-family: "Jacquard 24", script;
-  ;
+  font-family: "Jacquard 24", cursive;
   font-size: 24px;
   font-weight: 400;
   line-height: 24px;
@@ -3716,8 +3678,7 @@ div {
   position: relative;
   width: 50vh;
   color: #ffffff;
-  font-family: "Jacquard 24", script;
-  ;
+  font-family: "Jacquard 24", cursive;
   font-size: 24px;
   font-weight: 400;
   line-height: 24px;
@@ -3898,7 +3859,7 @@ div {
   height: auto;
   padding: 48px 24px 0;
   color: #ffffff;
-  font-family: "Jacquard 24", script;
+  font-family: "Jacquard 24", cursive;
   font-size: 60px;
   font-weight: 400;
   line-height: 60px;
