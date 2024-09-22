@@ -1177,6 +1177,7 @@ div {
   width: 51px;
   height: 34px;
   z-index: 72;
+  font-family: "Pixelify Sans", monospace;
 }
 
 #button-r2 {
@@ -1202,6 +1203,7 @@ div {
   width: 293px;
   height: 34px;
   z-index: 74;
+  font-family: "Pixelify Sans", monospace;
 }
 
 .button-r3 {
@@ -1239,6 +1241,7 @@ div {
   width: 40px;
   height: 34px;
   z-index: 77;
+  font-family: "Pixelify Sans", monospace;
 }
 
 #button-r3-2 {
@@ -1266,7 +1269,7 @@ div {
   width: 55px;
   height: 34px;
   z-index: 79;
-
+  font-family: "Pixelify Sans", monospace;
 }
 
 
